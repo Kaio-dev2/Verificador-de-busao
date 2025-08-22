@@ -5,7 +5,9 @@ Instituição Técnica: Sesi Senai
 
 Alunos:
 Kaio Richard Amaral Lisboa.
+
 Tomás Ernesto .
+
 Matheus Mafra Mianes.
 
 Reitor: Paulo Thiago Santos.
