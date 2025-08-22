@@ -1,1 +1,1 @@
-segundo teste para o git
+Teste 2 para sincronização ao Git
