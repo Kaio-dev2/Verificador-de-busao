@@ -1,5 +1,12 @@
 # Verificador-de-busao
-Nesse código em Python  fiz um código que analisa-se uma lista de quantidades de embarcaçõs de Õnibus.
+Fizemos um Verificador de Embarcações em Python onde ele faz o uso de uma lista do 
+arquivo 'out.csv' onde é listado os Ônibus e suas embarcações e desenbarcações, com o
+objetivo final de decarar o Ônibus com mais embarcações e o Ônibus com menos 
+embarcações.
+
+Usamos a IDE VS code com a extensão Python , fluxograma ao Canva.
+
+INFORMAÇÕES USUARIOS:
 
 Instituição Técnica: Sesi Senai
 
