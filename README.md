@@ -21,4 +21,4 @@ Matheus Mafra Mianes.
 
 Reitor: Paulo Thiago Santos.
 
-[FLUXOGRAMA RPG  SENAI (2).pdf](https://github.com/user-attachments/files/21946139/FLUXOGRAMA.RPG.SENAI.2.pdf)
+![Fluxograma](https://github.com/Kaio-dev2/Verificador-de-busao/blob/main/FLUXOGRAMA%20RPG%20%20SENAI.jpg)
