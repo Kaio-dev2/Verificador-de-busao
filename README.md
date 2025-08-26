@@ -12,6 +12,8 @@ INFORMAÇÕES USUARIOS:
 
 Instituição Técnica: Sesi Senai
 
+![fluxograma](https://github.com/Kaio-dev2/Verificador-de-busao/blob/main/FLUXOGRAMA%20RPG%20%20SENAI%20(1).png)
+
 Alunos:
 Kaio Richard Amaral Lisboa.
 
