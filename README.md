@@ -19,6 +19,7 @@ Tomás Ernesto .
 
 Matheus Mafra Mianes.
 
-Reitor: Paulo Thiago Santos.
+Professor: Paulo Thiago  e Charles
+
 
 ![Fluxograma](https://github.com/Kaio-dev2/Verificador-de-busao/blob/main/FLUXOGRAMA%20RPG%20%20SENAI.jpg)
