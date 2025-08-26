@@ -11,14 +11,9 @@ Usamos a IDE VS code com a extensão Python , fluxograma ao Canva.
 INFORMAÇÕES USUARIOS:
 
 Instituição Técnica: Sesi Senai
-
-![fluxograma](https://github.com/Kaio-dev2/Verificador-de-busao/blob/main/FLUXOGRAMA%20RPG%20%20SENAI%20(1).png)
-
 Alunos:
 Kaio Richard Amaral Lisboa.
-
 Tomás Ernesto .
-
 Matheus Mafra Mianes.
 
 Professor: Paulo Thiago  e Charles
